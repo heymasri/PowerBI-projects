@@ -1,10 +1,13 @@
 ## PowerBI-projects!
-###Hospital Patient Analysis:
-[Hospital_Analysis](https://github.com/heymasri/PowerBI-projects/assets/154779221/f5921357-e52f-44fd-89ab-db7bb3dca9cf)
+#### Unicorn Companies Analysis:
+<img width="582" alt="image" src="https://github.com/heymasri/PowerBI-projects/assets/154779221/8da002e7-67e6-49ff-a96c-b5c6aea7e834">
 
-###Spotify Stream Analysis:
-[Spotify_analysis.pdf](https://github.com/user-attachments/files/15949747/Spotify_analysis.pdf)
+#### Hospital Patient Analysis:
+<img width="582" alt="image" src="https://github.com/heymasri/PowerBI-projects/assets/154779221/91d588f9-290f-462c-804b-865af03d77b4">
 
-###Unicorn Companies Analysis:
-[Unicorn_companies_analysis.pdf](https://github.com/user-attachments/files/15949798/Unicorn_companies_analysis.pdf)
+
+#### Spotify Stream Analysis:
+<img width="582" alt="image" src="https://github.com/heymasri/PowerBI-projects/assets/154779221/9d32ee59-f0a9-4153-bd36-e7b4c2af9226">
+
+
 
